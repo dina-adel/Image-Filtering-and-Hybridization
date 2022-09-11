@@ -1,0 +1,2 @@
+# Image Filtering & Hybridization
+This is a simple mini-project that I worked on while taking the Computer Vision Course (CIE 552) at my university. It is the same project offered by [Georgia Tech](https://faculty.cc.gatech.edu/~hays/compvision2017/proj1/). 
